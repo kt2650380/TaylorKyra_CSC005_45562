@@ -67,7 +67,7 @@ int main()
    
    }
    
-   string sumbarine, destroyer, battleship, carrier, cruiser; 
+   string submarine, destroyer, battleship, carrier, cruiser; 
    
    char choice; 
    cout<<"Will their be another player or would you like to play against the computer\n";
